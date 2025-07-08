@@ -81,7 +81,7 @@ All improvements, new features, or bug fixes are welcome.
 
 ## 🌐 Connect with Me
 
-- 📺 **YouTube:** https://youtube.com/@ChescoV2  
+- 📺 **YouTube:** https://youtube.com/@arch.huzz  
 - 💬 **Discord Server:** https://discord.gg/bdy3tzpZ7M  
 - 📩 **Discord DM:** arch.huzz  
 
