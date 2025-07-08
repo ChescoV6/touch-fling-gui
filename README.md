@@ -1,47 +1,75 @@
-Touch Fling GUI
-A sleek, modern Roblox script that adds a Touch Fling feature with a user-friendly GUI. Built for performance and ease of use, this script lets you toggle the fling mechanic with a single click. Perfect for developers and players looking to enhance their Roblox experience.
+# Touch Fling GUI
 
-Features
+A sleek, modern Roblox script that adds a **Touch Fling** feature with a user-friendly GUI. Built for performance and ease of use, this script lets you toggle the fling mechanic with a single click. Perfect for developers and players looking to enhance their Roblox experience.
 
-Draggable GUI: Move the interface anywhere on your screen.
-Toggleable Fling: Activate or deactivate the fling effect with a simple ON/OFF button.
-Smooth Performance: Optimized with Roblox's RunService for minimal lag.
-Modern Design: Clean, dark-themed UI with clear text and intuitive controls.
-Created by ChescoV2: Built with love and precision for the Chesco community.
+## 🎮 Features
 
-Installation
+- 🖱️ **Draggable GUI** – Move the interface freely on your screen.
+- 🔁 **Toggleable Fling** – Simple ON/OFF button to enable or disable the fling effect.
+- ⚙️ **Smooth Performance** – Uses Roblox's `RunService` events for optimized and low-lag performance.
+- 🖤 **Modern UI** – Clean, dark-themed interface with easy-to-read text and intuitive layout.
+- 👨‍💻 **Created by ChescoV2** – Designed with care for the Chesco community.
 
-Copy the Script: Grab the Lua script from the repository.
-Inject into Roblox: Use a compatible Roblox executor to run the script.
-Launch the GUI: The interface will appear automatically, ready for action.
-Toggle Fling: Click the button to enable or disable the fling effect.
+---
 
-Usage
+## 🚀 Installation
 
-Open the GUI: The interface spawns in the center of your screen.
-Drag It: Click and hold the header to move the GUI.
-Toggle Fling: Press the button to switch between ON and OFF states.
-Enjoy: Experience the fling mechanic in your game!
+1. **Copy the Script**  
+   Grab the Lua script from this repository.
 
-Code Highlights
+2. **Inject into Roblox**  
+   Use any compatible Roblox executor to run the script.
 
-Efficient Fling Logic: Uses RunService events (Heartbeat, RenderStepped, Stepped) for precise velocity manipulation.
-Dynamic GUI: Randomly named ScreenGui to avoid conflicts.
-Clean Structure: Organized code with clear variable names and modular functions.
+3. **Launch the GUI**  
+   The interface will appear automatically, ready for use.
 
-Contributing
-Want to make this even better? Fork the repo, tweak the code, and submit a pull request! Ideas for new features or optimizations are always welcome in .
+4. **Toggle Fling**  
+   Use the ON/OFF button to activate or deactivate the fling mechanic.
 
-Credits
+---
 
-Chesco: Creator and developer of Touch Fling GUI.
-Community: Thanks for the support and feedback!
+## 🕹️ Usage
 
-Connect
+- **Open the GUI:** It will auto-load in the center of your screen.
+- **Drag It:** Click and hold the top bar to reposition the GUI.
+- **Toggle Fling:** Tap the button to enable/disable the fling effect.
+- **Enjoy:** Watch the magic happen as your character interacts with Roblox physics!
 
-YouTube: Subscribe to ChescoV2 for more awesome scripts!
-Discord: Join my server at discord.gg/bdy3tzpZ7M or DM me at arch.huzz
+---
 
-⚠️ Notes ⚠️
+## 🧠 Code Highlights
 
-This readme was made by AI **BUT** this does NOT mean its malware or anything like that. Its a real touch to fling script and if you're paranoid just dm me on discord or go to my server and I'll show you the source code.
+- 🌀 **Efficient Fling Logic:** Uses `Heartbeat`, `RenderStepped`, and `Stepped` events for accurate fling velocity control.
+- 🔐 **Dynamic GUI Naming:** ScreenGui is randomly named to avoid conflicts with other scripts or UIs.
+- 📦 **Clean Structure:** Organized code with readable variable names and well-separated functions for clarity.
+
+---
+
+## 🤝 Contributing
+
+Want to make this better?  
+Feel free to fork the repo, enhance the code, and submit a pull request! Feature suggestions, improvements, or optimizations are always welcome.
+
+---
+
+## 🙏 Credits
+
+- **ChescoV2** – Creator and developer of Touch Fling GUI.
+- **Community** – Thanks for the support, ideas, and feedback!
+
+---
+
+## 🌐 Connect with Me
+
+- 📺 **YouTube:** [ChescoV2](https://youtube.com/@ChescoV2)
+- 💬 **Discord Server:** [discord.gg/bdy3tzpZ7M](https://discord.gg/bdy3tzpZ7M)
+- 📩 **DM me:** `arch.huzz` on Discord
+
+---
+
+## ⚠️ Disclaimer
+
+> 🤖 This README was generated with the help of AI – **BUT** the script is real, functional, and safe.  
+> If you're skeptical or want to verify the code yourself, reach out on Discord or join the server. I’ll gladly show you the source in real-time.
+
+---
