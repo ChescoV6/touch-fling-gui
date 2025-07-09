@@ -16,7 +16,7 @@ A sleek, modern Roblox script that adds a **Touch Fling** feature with a user-fr
 
 ## 🚀 Installation
 
-### ✅ Quick Loadstring
+### ✅ Quick Loadstring (Recommended)
 
 Use this script in your Roblox executor to instantly run Touch Fling GUI:
 ```lua
