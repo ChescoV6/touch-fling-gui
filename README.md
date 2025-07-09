@@ -94,4 +94,3 @@ If you’re paranoid or want to see the code yourself, join the Discord server o
 ---
 
 Enjoy the fling and thanks for supporting Chesco!
-"""
