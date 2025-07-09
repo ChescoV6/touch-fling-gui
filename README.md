@@ -10,7 +10,7 @@ A sleek, modern Roblox script that adds a **Touch Fling** feature with a user-fr
 - 🔁 **Toggleable Fling** – Simple ON/OFF button to enable or disable the fling effect.  
 - ⚙️ **Smooth Performance** – Uses Roblox's `RunService` events for optimized, low-lag behavior.  
 - 🖤 **Modern UI** – Clean, dark-themed interface with readable text and intuitive layout.  
-- 👨‍💻 **Created by ChescoV2** – Designed with care for the Chesco community.  
+- 👨‍💻 **Created by Chesco** – Designed with care by Chesco.  
 
 ---
 
