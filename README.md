@@ -74,14 +74,13 @@ All improvements, new features, or bug fixes are welcome.
 
 ## 🙏 Credits
 
-- **ChescoV2** – Creator and developer of Touch Fling GUI.  
-- **Community** – Thanks to everyone for the support, testing, and feedback!
-
+- **Chesco** – Creator and developer of Touch Fling GUI.  
+- **Yep just Chesco**
 ---
 
 ## 🌐 Connect with Me
 
-- 📺 **YouTube:** https://youtube.com/@arch.huzz  
+- 📺 **YouTube:** https://www.youtube.com/@archhuzz
 - 💬 **Discord Server:** https://discord.gg/bdy3tzpZ7M  
 - 📩 **Discord DM:** arch.huzz  
 
@@ -94,5 +93,5 @@ If you’re paranoid or want to see the code yourself, join the Discord server o
 
 ---
 
-Enjoy the fling and thanks for supporting ChescoV2!
+Enjoy the fling and thanks for supporting Chesco!
 """
